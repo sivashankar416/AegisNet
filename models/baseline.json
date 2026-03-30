@@ -1,0 +1,7 @@
+{
+    "packet_rate_mean": 2.766666666666667,
+    "packet_rate_std": 0.20548046676563253,
+    "bytes_per_packet_mean": 510.0,
+    "bytes_per_packet_std": 8.16496580927726,
+    "samples": 3
+}
