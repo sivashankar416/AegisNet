@@ -1,0 +1,4 @@
+pyshark
+numpy
+pandas
+scikit-learn
